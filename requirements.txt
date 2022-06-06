@@ -1,0 +1,13 @@
+numpy
+pandas
+sklearn
+mlflow
+black
+isort
+flask
+pytest
+evidently
+gunicorn
+warnings
+seaborn
+matplotlib
