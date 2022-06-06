@@ -1,7 +1,7 @@
 numpy
 pandas
 sklearn
-mlflow
+mlflow == 1.23.1
 black
 isort
 flask
