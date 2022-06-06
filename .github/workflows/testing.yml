@@ -29,4 +29,3 @@ jobs:
         run: python3 -m pip install -e ".[test]" --no-cache-dir
       - name: Execute tests
         run: pytest tests
-
