@@ -7,7 +7,7 @@ isort
 flask
 pytest
 evidently
-gunicorn
+gunicorn == 20.1.0
 warnings
 seaborn
 matplotlib
